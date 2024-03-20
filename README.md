@@ -1,3 +1,3 @@
 # kashish-file
 first git Repository
-author - kashish jinal
+author - kashish jindal
